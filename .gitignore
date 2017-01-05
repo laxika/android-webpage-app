@@ -1,6 +1,5 @@
-/build
+build
 .idea
-/src/main/assets
 *.iml
 local.properties
 .gradle
